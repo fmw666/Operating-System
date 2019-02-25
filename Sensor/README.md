@@ -7,12 +7,12 @@
 
   1. [绪论](#xulun)
   
----
   
 <a name="xulun"> </a>
 ## 绪论
 <div align="center">
     <h3>1.1 自动检测技术概述</h3>
 </div>
+&emsp;&emsp;1、自动检测技术的重要性
 
 [◀返回目录](#目录)
